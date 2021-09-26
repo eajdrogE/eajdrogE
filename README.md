@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eajdrogE
+- 👀 I’m interested in 3d modeling, coding in c++/c#/pascal;
+- 🌱 I’m currently learning Blender and c++;
+- 💞️ I’m looking to collaborate on all project;
+- 📫 How to reach me egordjae@gmail.com
